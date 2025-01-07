@@ -7,12 +7,12 @@ Hi there! I'm a passionate tech enthusiast and Certified Kubernetes Administrato
 🎭 Active contributor to various clubs during my academic years
 💻 What I Do:
 
-🌐 Exploring Kubernetes, Docker, and cloud-native technologies
+🌐 Exploring Kubernetes, Docker, and cloud-native technologies                        
 🔧 Building and improving knowledge on certifications
 📚 Sharing my daily learnings on LinkedIn #LearningJourney
 🚀 Fun Facts:
 
-I'm documenting my journey to the CKA certification on LinkedIn.
+I'm documenting my journey to the CKA  Azure and Terraform certification on LinkedIn.
 I thrive on solving complex problems and learning every single day.
 📫 Let's Connect:
 
