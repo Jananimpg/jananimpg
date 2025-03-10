@@ -16,6 +16,6 @@ I'm documenting my journey to the CKA,  Azure and Terraform certification on Git
 I thrive on solving complex problems and learning every single day.                     
 📫 Let's Connect:             
 
-🌐 LinkedIn                    
-💡 Portfolio                       
+🌐 [LinkedIn](https://www.linkedin.com/in/jananigdara/)                   
+💡 [Portfolio](https://jananimpg.github.io/portfolio/)                       
 🌟 Let's collaborate and make the tech world awesome together!                    
